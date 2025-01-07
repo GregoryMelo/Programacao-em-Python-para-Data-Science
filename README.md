@@ -14,9 +14,10 @@ O conteúdo foi focado em técnicas de manipulação de dados, visualização, e
 > [!IMPORTANT]
 > Este curso incluiu tópicos fundamentais que são cruciais para qualquer cientista de dados.
 
-- Introdução ao Python
 - Algoritmos
 - Estatística Aplicada
+- Introdução ao Python
+- Introdução ao Jupyter
 - Manipulação de Dados com Pandas
 - Visualização de Dados com Matplotlib e Seaborn
 - Análise Numérica com NumPy
@@ -31,8 +32,11 @@ O conteúdo foi focado em técnicas de manipulação de dados, visualização, e
 - Matplotlib [![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=Matplotlib)](https://matplotlib.org/)
 - Seaborn [![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=Seaborn)](https://seaborn.pydata.org/)
 - NumPy [![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=NumPy)](https://numpy.org/)
+- Jupyter [![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)](https://jupyter.org/)
+
+> [!NOTE]
+> **Jupyter** é uma IDE poderosa e interativa que permite criar e compartilhar documentos que contêm código, visualizações e texto narrativo. Utilizei o Jupyter para rodar todos os códigos deste curso, aproveitando seus recursos avançados para análise de dados e visualização.
 
 ## Conclusão
 
-> [!NOTE]
-> Este curso foi fundamental para desenvolver competências práticas e teóricas em Data Science, utilizando a linguagem Python e diversas ferramentas avançadas.
+#### Este curso foi fundamental para desenvolver competências práticas e teóricas em Data Science, utilizando a linguagem Python e diversas ferramentas avançadas.
