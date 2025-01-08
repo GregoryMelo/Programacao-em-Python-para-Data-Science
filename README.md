@@ -1,18 +1,18 @@
 # Programação em Python para Data Science <a href="https://sp.senai.br" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/SENAI_S%C3%A3o_Paulo_logo.png/1200px-SENAI_S%C3%A3o_Paulo_logo.png" alt="Logo do Senai" width="150" align="right"/></a>
 
-Este repositório contém todo o material e projetos desenvolvidos durante o curso **"Programação em Python para Data Science"**.
+Este repositório contém todo o material e projetos desenvolvidos durante o curso "Programação em Python para Data Science", concluído na instituição de ensino **Senai** (Serviço Nacional de Aprendizagem Industrial).
 
 ## Descrição do Curso
 
 > [!NOTE]
-> O curso abordou diversas ferramentas avançadas de análise de dados, proporcionando habilidades essenciais no uso de Python para Data Science.
+> O conteúdo foi focado em técnicas de manipulação de dados, visualização, estatística e modelagem.
 
-O conteúdo foi focado em técnicas de manipulação de dados, visualização, estatística e modelagem.
+O curso abordou diversas ferramentas avançadas de análise de dados, proporcionando habilidades essenciais no uso de Python para Data Science.
 
 ## Conteúdo do Curso
 
 > [!IMPORTANT]
-> Este curso incluiu tópicos fundamentais que são cruciais para qualquer cientista de dados.
+> Utilizei o Jupyter, uma IDE interativa excelente para criar e compartilhar código, visualizações e texto. Caso o código seja executado em outras IDEs ou IDLEs, pode ser necessário utilizar recursos adicionais além do interpretador ou compilador padrão. Certifique-se de que todas as bibliotecas e dependências estejam instaladas corretamente.
 
 - Algoritmos
 - Estatística Aplicada
@@ -25,7 +25,7 @@ O conteúdo foi focado em técnicas de manipulação de dados, visualização, e
 ## Ferramentas Utilizadas
 
 > [!WARNING]
-> Certifique-se de ter todas essas ferramentas instaladas corretamente para seguir os projetos sem problemas.
+> Novamente. Certifique-se de ter todas essas ferramentas instaladas corretamente para rodar os códigos sem problemas. Utilizei o **Jupyter** através do **Anaconda Navigator**
 
 - Python [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)](https://www.python.org/)
 - Pandas [![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas)](https://pandas.pydata.org/)
@@ -33,9 +33,6 @@ O conteúdo foi focado em técnicas de manipulação de dados, visualização, e
 - Seaborn [![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=Seaborn)](https://seaborn.pydata.org/)
 - NumPy [![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=NumPy)](https://numpy.org/)
 - Jupyter [![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)](https://jupyter.org/)
-
-> [!NOTE]
-> **Jupyter** é uma IDE poderosa e interativa que permite criar e compartilhar documentos que contêm código, visualizações e texto narrativo. Utilizei o Jupyter para rodar todos os códigos deste curso, aproveitando seus recursos avançados para análise de dados e visualização.
 
 ## Conclusão
 
