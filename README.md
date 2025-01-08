@@ -12,7 +12,7 @@ O curso abordou diversas ferramentas avançadas de análise de dados, proporcion
 ## Conteúdo do Curso
 
 > [!IMPORTANT]
-> Utilizei o Jupyter, uma IDE interativa excelente para criar e compartilhar código, visualizações e texto. Caso o código seja executado em outras IDEs ou IDLEs, pode ser necessário utilizar recursos adicionais além do interpretador ou compilador padrão. Certifique-se de que todas as bibliotecas e dependências estejam instaladas corretamente.
+> Utilizei o Jupyter através do **Anaconda Navigator**, uma IDE interativa excelente para criar e compartilhar código, visualizações e texto. Caso o código seja executado em outras IDEs ou IDLEs, pode ser necessário utilizar recursos adicionais além do interpretador ou compilador padrão. Certifique-se de que todas as bibliotecas e dependências estejam instaladas corretamente.
 
 - Algoritmos
 - Estatística Aplicada
@@ -25,7 +25,7 @@ O curso abordou diversas ferramentas avançadas de análise de dados, proporcion
 ## Ferramentas Utilizadas
 
 > [!WARNING]
-> Novamente. Certifique-se de ter todas essas ferramentas instaladas corretamente para rodar os códigos sem problemas. Utilizei o **Jupyter** através do **Anaconda Navigator**
+> Novamente. Certifique-se de ter todas essas ferramentas instaladas corretamente para rodar os códigos sem problemas.
 
 - Python [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)](https://www.python.org/)
 - Pandas [![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas)](https://pandas.pydata.org/)
